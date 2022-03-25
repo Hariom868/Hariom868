@@ -13,6 +13,7 @@
   <a href="https://www.github.com/Hariom868/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
   <a href="https://twitter.com/HariOm01216145"><img src="https://img.shields.io/badge/HariOm1216145-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="https://www.facebook.com/profile.php?id=100009096074040"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hariomsingh.hs/"><img src="https://img.shields.io/badge/Instagram-%231877F2.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   
   <summary><h2>Languages And Tools</h2></summary>
   <p align="center">
