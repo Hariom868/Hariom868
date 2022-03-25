@@ -11,7 +11,7 @@
   <a href="mailto:hariomsingh.hs324@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hari-om-144b4b133/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.github.com/Hariom868/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
-  <a href="https://twitter.com/HariOm01216145"><img src="https://img.shields.io/badge/keshav_aga-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/HariOm01216145"><img src="https://img.shields.io/badge/HariOm1216145-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="https://www.facebook.com/profile.php?id=100009096074040"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   
   <summary><h2>Languages And Tools</h2></summary>
